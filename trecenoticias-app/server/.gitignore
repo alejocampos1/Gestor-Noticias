@@ -4,4 +4,3 @@
 server/populateDB.js
 server/runTests.js
 server/updateNotes.js
-.env
